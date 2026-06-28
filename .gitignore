@@ -2,4 +2,4 @@
 *.pdf
 *.workspace
 Project Backups/
-
+src/build/*
